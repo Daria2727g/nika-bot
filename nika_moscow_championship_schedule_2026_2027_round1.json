@@ -1,0 +1,32 @@
+{
+  "tournament": "Первенство Москвы",
+  "season": "2026/2027",
+  "round": "1 круг",
+  "source_file": "Первенство Москвы 2026-2027 - 1 круг.pdf",
+  "source_note": "Даты в источнике иногда записаны с альтернативной датой в скобках. Обе части сохранены в date_label; date_main — дата вне скобок.",
+  "teams": ["Ника-Восток", "Ника-Юго-Восток"],
+  "matches": [
+    {"date_main":"2026-09-27","date_alternative":null,"date_label":"27 сентября 2026 г.","team":"Ника-Восток","opponent":"Ника-Юго-Восток"},
+    {"date_main":"2026-10-04","date_alternative":"2026-10-03","date_label":"04 (03) октября 2026 г.","team":"Ника-Восток","opponent":"Пролетарская"},
+    {"date_main":"2026-10-11","date_alternative":"2026-10-10","date_label":"11 (10) октября 2026 г.","team":"Ника-Восток","opponent":"Москва-98 — ЮГ"},
+    {"date_main":"2026-10-18","date_alternative":"2026-10-17","date_label":"18 (17) октября 2026 г.","team":"Ника-Восток","opponent":"Бауманская — 1"},
+    {"date_main":"2026-10-25","date_alternative":"2026-10-24","date_label":"25 (24) октября 2026 г.","team":"Ника-Восток","opponent":"Кировская"},
+    {"date_main":"2026-11-01","date_alternative":"2026-10-31","date_label":"1 (31 октября) ноября 2026 г.","team":"Ника-Восток","opponent":"Ленинградская — 2"},
+    {"date_main":"2026-11-15","date_alternative":"2026-11-14","date_label":"15 (14) ноября 2026 г.","team":"Ника-Восток","opponent":"Зеленоград"},
+    {"date_main":"2026-11-22","date_alternative":"2026-11-21","date_label":"22 (21) ноября 2026 г.","team":"Ника-Восток","opponent":"Ленинградская — 1"},
+    {"date_main":"2026-11-29","date_alternative":"2026-11-28","date_label":"29 (28) ноября 2026 г.","team":"Ника-Восток","opponent":"Бауманская — 2 / Москва-98 — Запад"},
+    {"date_main":"2026-12-06","date_alternative":"2026-12-04","date_label":"06 (04) декабря 2026 г.","team":"Ника-Восток","opponent":"ЦСКА"},
+    {"date_main":"2026-12-13","date_alternative":"2026-12-12","date_label":"13 (12) декабря 2026 г.","team":"Ника-Восток","opponent":"МосОбр"},
+    {"date_main":"2026-09-27","date_alternative":null,"date_label":"27 сентября 2026 г.","team":"Ника-Юго-Восток","opponent":"Ника-Восток"},
+    {"date_main":"2026-10-04","date_alternative":"2026-10-03","date_label":"04 (03) октября 2026 г.","team":"Ника-Юго-Восток","opponent":"Москва-98 — ЮГ"},
+    {"date_main":"2026-10-11","date_alternative":"2026-10-10","date_label":"11 (10) октября 2026 г.","team":"Ника-Юго-Восток","opponent":"Бауманская — 1"},
+    {"date_main":"2026-10-18","date_alternative":"2026-10-17","date_label":"18 (17) октября 2026 г.","team":"Ника-Юго-Восток","opponent":"Кировская"},
+    {"date_main":"2026-10-25","date_alternative":"2026-10-24","date_label":"25 (24) октября 2026 г.","team":"Ника-Юго-Восток","opponent":"Ленинградская — 2"},
+    {"date_main":"2026-11-01","date_alternative":"2026-10-31","date_label":"1 (31 октября) ноября 2026 г.","team":"Ника-Юго-Восток","opponent":"Зеленоград"},
+    {"date_main":"2026-11-15","date_alternative":"2026-11-14","date_label":"15 (14) ноября 2026 г.","team":"Ника-Юго-Восток","opponent":"Ленинградская — 1"},
+    {"date_main":"2026-11-22","date_alternative":"2026-11-21","date_label":"22 (21) ноября 2026 г.","team":"Ника-Юго-Восток","opponent":"Бауманская — 2 / Москва-98 — Запад"},
+    {"date_main":"2026-11-29","date_alternative":"2026-11-28","date_label":"29 (28) ноября 2026 г.","team":"Ника-Юго-Восток","opponent":"ЦСКА"},
+    {"date_main":"2026-12-06","date_alternative":"2026-12-04","date_label":"06 (04) декабря 2026 г.","team":"Ника-Юго-Восток","opponent":"МосОбр"},
+    {"date_main":"2026-12-13","date_alternative":"2026-12-12","date_label":"13 (12) декабря 2026 г.","team":"Ника-Юго-Восток","opponent":"Пролетарская"}
+  ]
+}
